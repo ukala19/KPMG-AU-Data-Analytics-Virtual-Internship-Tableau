@@ -53,6 +53,14 @@ Feel free to navigate through the notebooks and visualizations to understand the
 
 This internship has proven to be an invaluable learning experience, enabling me to apply theoretical knowledge in a practical, real-world project.
 
+# **Dashboard Presentation:**
+
+# Brand Performance: Gender-Based, Sales and State-Wide Profit Metrics
+![image](https://github.com/ukala19/KPMG-AU-Data-Analytics-Virtual-Internship-Tableau/assets/123114008/3db1312c-6310-4a84-b254-cd5f67d9f84d)
+
+# Product Portfolio Profits: Analyzing Classes and Lines
+![image](https://github.com/ukala19/KPMG-AU-Data-Analytics-Virtual-Internship-Tableau/assets/123114008/5cf02de9-1a43-426a-822a-b6cb06fbc2cc)
+
 # **Cetrificate of Completion**
 <img width="621" alt="image" src="https://github.com/ukala19/KPMG-AU-Data-Analytics-Virtual-Internship-Tableau/assets/123114008/2b19106d-ffa2-4c2b-b1a9-1a5477cfab03">
 
