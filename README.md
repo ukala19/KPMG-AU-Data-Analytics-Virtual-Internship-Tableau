@@ -13,9 +13,9 @@ Providing actionable recommendations based on data analysis to address client bu
 
 **Repository Contains:**
 
-**Data Quality Assessment:** This section includes the dataset, cleaned data in .csv format with code and documentation, merged csv file for data analysis, and solutions for the first task in both .docx and .pdf formats. /n
-**Data Insights:** This section comprises the template for task 2, the solution in .pptx format, and the 'data analysis' file for interpretation and charts. /n
-**Data Insights and Presentation:** This section features visualizations and dashboards created during the internship in .twbx format with Tableau, along with xlsx files of current and target customers for data analysis. /n
+**Data Quality Assessment:** This section includes the dataset, cleaned data in .csv format with code and documentation, merged csv file for data analysis, and solutions for the first task in both .docx and .pdf formats. 
+**Data Insights:** This section comprises the template for task 2, the solution in .pptx format, and the 'data analysis' file for interpretation and charts. 
+**Data Insights and Presentation:** This section features visualizations and dashboards created during the internship in .twbx format with Tableau, along with xlsx files of current and target customers for data analysis. 
 **Certificate of Completion:** This contains the certificate of completion from KPMG AU and Forage.
 
 **Tasks and Solutions:**
